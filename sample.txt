@@ -1,4 +1,6 @@
 my name is k snehith
 practicing the git
 hello git
-wq
+hello world
+hai
+i the featuwerawq
